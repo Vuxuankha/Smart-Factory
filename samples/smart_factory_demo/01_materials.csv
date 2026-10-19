@@ -1,0 +1,3 @@
+﻿code,name,unit,type,safety
+DEMO-RM,DEMO raw material,pcs,BUY,10
+DEMO-FG,DEMO finished product,pcs,MAKE,0

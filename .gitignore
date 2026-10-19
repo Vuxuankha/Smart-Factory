@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.build-venv/
+build/
+dist/
+*.spec.bak
+BUILD_V14.log
+KET_QUA_TEST_V14.txt
+*.sqlite3
+_BAO_CAO_*/
+_NHAT_KY/
+*.partial

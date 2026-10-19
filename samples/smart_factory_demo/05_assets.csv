@@ -1,0 +1,2 @@
+﻿code,name,type,location,state,ip,parent,capacity,skill,maintenance_due
+DEMO-MACHINE,DEMO machine,MACHINE,DEMO-LINE,IDLE,,,10,,
